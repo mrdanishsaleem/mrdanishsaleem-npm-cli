@@ -2,7 +2,7 @@
 
 console.log(`Danish Saleem
 
-Software Engineer, an Open-Source Contributor and a Dev.to Community tag moderator. I live in Lahore, Pakistan and work as a freelance software engineer.
+Software Engineer, an Open-Source Contributor and a Dev.to Community tag moderator.
 
 🐦 Twitter: https://twitter.com/MrDanishSaleem
 🐙 GitHub: https://github.com/mrdanishsaleem

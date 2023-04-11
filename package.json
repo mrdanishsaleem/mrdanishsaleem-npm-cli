@@ -6,5 +6,8 @@
     "mrdanishsaleem": "index.js"
   },
   "author": "mrdanishsaleem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mrdanishsaleem": "^1.0.0"
+  }
 }

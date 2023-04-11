@@ -2,6 +2,13 @@
 
 console.log(`Danish Saleem
 
-A software engineer, and Open-Source Contributor and a dev tag moderator at Dev.to.I live in Lahore, Pakistan and work as a freelance software engineer. I have skills in JavaScript, ReactJS, NodeJS, Database, Automation, Web Development and Technical Writing. I am also interested in AI, web design, and social media marketing.
+Software Engineer, an Open-Source Contributor and a Dev.to Community tag moderator. I live in Lahore, Pakistan and work as a freelance software engineer.
+
+🐦 Twitter: https://twitter.com/MrDanishSaleem
+🐙 GitHub: https://github.com/mrdanishsaleem
+📖 Blog: https://dev.to/mrdanishsaleem
+📸 Instagram: https://instagram.com/mrdanishsaleem
+💼 LinkedIn: https://linkedin.com/mrdanishsaleem
+💻 NPM: https://www.npmjs.com/~mrdanishsaleem
 
 `);

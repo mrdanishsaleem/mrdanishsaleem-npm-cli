@@ -1,11 +1,10 @@
 {
   "name": "nodejsbeginner",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "My first every nodejsbeginner cli package.",
+  "bin": {
+    "mrdanishsaleem": "index.js"
   },
-  "author": "",
+  "author": "mrdanishsaleem",
   "license": "ISC"
 }

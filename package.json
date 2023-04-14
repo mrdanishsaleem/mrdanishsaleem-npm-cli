@@ -8,5 +8,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mrdanishsaleem/mrdanishsaleem-npm-cli.git"
-  }
+  },
+  "keywords": [
+    "npm",
+    "cli",
+    "nodejs",
+    "mrdanishsaleem"
+  ],
+  "author": "Danish Saleem <danish_s@outlook.com>",
+  "license": "GNU General Public License"
 }

@@ -1,1 +1,1 @@
-# NodeJS Application
+# NPM CLI Package

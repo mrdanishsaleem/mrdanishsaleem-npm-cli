@@ -1,13 +1,8 @@
 {
   "name": "mrdanishsaleem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My first every nodejsbeginner cli package.",
   "bin": {
     "mrdanishsaleem": "index.js"
-  },
-  "author": "mrdanishsaleem",
-  "license": "ISC",
-  "dependencies": {
-    "mrdanishsaleem": "^1.0.0"
   }
 }

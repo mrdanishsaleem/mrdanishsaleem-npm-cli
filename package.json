@@ -4,5 +4,9 @@
   "description": "My first every nodejsbeginner cli package.",
   "bin": {
     "mrdanishsaleem": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrdanishsaleem/mrdanishsaleem-npm-cli.git"
   }
 }

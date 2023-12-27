@@ -11,5 +11,4 @@ Software Engineer, an Open-Source Contributor and a Dev.to Community tag moderat
 💼 LinkedIn: https://linkedin.com/mrdanishsaleem
 💻 NPM: https://www.npmjs.com/~mrdanishsaleem
 🌃 Showwcase: https://www.showwcase.com/mrdanishsaleem
-
 `);
